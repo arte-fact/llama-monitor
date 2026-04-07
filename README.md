@@ -1,10 +1,3 @@
-![Dashboard](https://github.com/arte-fact/llama-monitor/blob/main/Dashboard.png)
-![Dashboard](https://github.com/arte-fact/llama-monitor/blob/main/Presets.png)
-![Dashboard](https://github.com/arte-fact/llama-monitor/blob/main/Configs.png)
-![Dashboard](https://github.com/arte-fact/llama-monitor/blob/main/TestChat.png)
-![Dashboard](https://github.com/arte-fact/llama-monitor/blob/main/Logs.png)
-
-
 # Llama Monitor
 
 Web dashboard for managing [llama.cpp](https://github.com/ggerganov/llama.cpp) servers with real-time GPU monitoring.
