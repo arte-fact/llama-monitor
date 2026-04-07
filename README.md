@@ -27,8 +27,10 @@ GPU backend is auto-detected at startup. Override with `--gpu-backend rocm|nvidi
 ### From Source
 
 ```bash
-# Prerequisites: Rust 1.82+, llama.cpp (llama-server binary)
-git clone <repo-url> && cd llama-monitor
+# Install Rust if needed: https://rustup.rs
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+git clone https://github.com/arte-fact/llama-monitor.git && cd llama-monitor
 cargo build --release
 ```
 
